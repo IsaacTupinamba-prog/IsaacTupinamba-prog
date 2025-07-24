@@ -1,5 +1,5 @@
 ![snake](https://github.com/user-attachments/assets/b4264061-3b2b-45a7-91ed-faeabda3fd5c)
-## Olá! Eu sou o Isaac Tupinamba 👋
+## Olá, Seja bem vindo ao meu perfil! Eu sou o Isaac Tupinamba 👋
 
 - 🌱 Atualmente estou estudando HTML e CSS.
 - 👯 Estou buscando minha primeira vaga de emprego na área da programação.
